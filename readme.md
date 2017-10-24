@@ -1,5 +1,5 @@
 This is all about CSS Floats
 -------------
 
-- foo
-- bar
+- Open up index.html in a browser!
+- Enjoy the layout
